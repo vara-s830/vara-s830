@@ -1,2 +1,1 @@
-README.ME
-Simon-game
+README.md
